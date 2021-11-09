@@ -1,4 +1,4 @@
-package fr.diginamic;
+package fr.diginamic.livre;
 
 import java.sql.SQLException;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package fr.diginamic;
+package fr.diginamic.livre;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
